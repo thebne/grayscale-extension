@@ -2,6 +2,10 @@
 
 Paste these directly into the Chrome Web Store / Edge Add-ons forms.
 
+**Privacy policy URL (for both stores):** https://thebne.github.io/grayscale-extension/
+**Source code / homepage URL:** https://github.com/thebne/grayscale-extension
+**Upload file:** `store/grayscale-sites-v1.0.0.zip`
+
 ---
 
 ## Name
